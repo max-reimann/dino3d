@@ -1,12 +1,17 @@
-# 🦖 T-Rex Run 3D
-Play the game here: http://priler.github.io/dino3d/low.html  
-Alt. version with best quality settings for high-end PCs: http://priler.github.io/dino3d/
+# 🦖 T-Rex Run 3D (German/Deutsch)
+Spiele das Spiel hier: https://max-reimann.github.io/dino3d/low.html  
+Alt. Version mit höchsten Qualitäts-Einstellungen für "High-End"-PCs: https://max-reimann.github.io/dino3d/
 
-# Description
-T-Rex Run 3D is a ThreeJS WebGL game made as an experiment.  
-All the graphics was hand crafted with Magica Voxel software, so that the overall feel and look of the game will be the same as original 2D game.
+Original-Version des Autors: https://github.com/Priler/dino3d
+Version mit Maus-/ und Touchscreen-Unterstützung: https://github.com/Misheus/dino3d
 
-*The code has NOT been polished and is provided "as is". There are a lot of code that are redundant and there are tons of improvements that can be made.*
+# Beschreibung
+T-Rex Run 3D ist ein, als Experiment erstelltes, ThreeJS WebGL-Spiel.  
+Alle Grafiken wurden mithilfe der Software "Magica Voxel" von Hand erstellt, sodass das allgemeine Spielgefühl und das Erscheinungsbild dem, des ursprünglichen 2D-Spiels, entsprechen.
+
+Diese deutsche Übersetzung enthält auch die Maus-/ und Touchscreen-Unterstützung.
+
+*Der Code wurde NICHT extra aufbereitet und wird "so, wie er ist" bereitgestellt. Es ist sehr viel überflüssiger Code enthalten und es könnten noch eine Menge Verbesserungen vorgenommen werden.*
 
 # Screenshot
 ![T-Rex Run 3D](https://i.imgur.com/fESLYlF.png)
@@ -14,7 +19,7 @@ All the graphics was hand crafted with Magica Voxel software, so that the overal
 # ToDo
 https://trello.com/b/Pt4FSqOi/t-rex-run-3d
 
-## Change history
+## Changelog
 - Update 1
   - New interface
   - Infinity jumping while holding jump button
@@ -50,12 +55,11 @@ https://github.com/goldfire/howler.js/ - Audio library
 https://github.com/creativelifeform/three-nebula - WebGL based particle system engine for three.js  
 https://github.com/addyosmani/visibly.js/ - Page Visibility API shim
 
-## Author
-
+## Autor
 (C) 2020 Abraham Tugalov.
 http://howdyho.net
 
-## Contributors
+## Mitwirkende
 - Aidar Ayupov <https://github.com/preposition17> & Vildan Safin <https://github.com/Enigma228322> for inspiration about 3D models
 - Rifat Fazlutdinov <https://github.com/Rifat-Fazlutdinov> for telegram bugreport bot
 - Arnur Bekbolov <https://vk.com/kurasaiiiii> for skins ideas
