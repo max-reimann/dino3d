@@ -2,14 +2,14 @@
 Spiele das Spiel hier: https://max-reimann.github.io/dino3d/low.html  
 Alt. Version mit höchsten Qualitäts-Einstellungen für "High-End"-PCs: https://max-reimann.github.io/dino3d/
 
-Original-Version des Autors: https://github.com/Priler/dino3d
-Version mit Maus-/ und Touchscreen-Unterstützung: https://github.com/Misheus/dino3d
-
 # Beschreibung
 T-Rex Run 3D ist ein, als Experiment erstelltes, ThreeJS WebGL-Spiel.  
 Alle Grafiken wurden mithilfe der Software "Magica Voxel" von Hand erstellt, sodass das allgemeine Spielgefühl und das Erscheinungsbild dem, des ursprünglichen 2D-Spiels, entsprechen.
 
 Diese deutsche Übersetzung enthält auch die Maus-/ und Touchscreen-Unterstützung.
+
+Original-Version des Autors: https://github.com/Priler/dino3d
+Version mit Maus-/ und Touchscreen-Unterstützung: https://github.com/Misheus/dino3d
 
 *Der Code wurde NICHT extra aufbereitet und wird "so, wie er ist" bereitgestellt. Es ist sehr viel überflüssiger Code enthalten und es könnten noch eine Menge Verbesserungen vorgenommen werden.*
 
