@@ -8,7 +8,7 @@ Alle Grafiken wurden mithilfe der Software "Magica Voxel" von Hand erstellt, sod
 
 Diese deutsche Übersetzung enthält auch die Maus-/ und Touchscreen-Unterstützung.
 
-Original-Version des Autors: https://github.com/Priler/dino3d
+Original-Version des Autors: https://github.com/Priler/dino3d  
 Version mit Maus-/ und Touchscreen-Unterstützung: https://github.com/Misheus/dino3d
 
 *Der Code wurde NICHT extra aufbereitet und wird "so, wie er ist" bereitgestellt. Es ist sehr viel überflüssiger Code enthalten und es könnten noch eine Menge Verbesserungen vorgenommen werden.*
